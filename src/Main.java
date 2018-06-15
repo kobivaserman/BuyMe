@@ -95,7 +95,7 @@ public class Main {
     }
     @Test
     public void test02_Choosegiftvariables() throws InterruptedException, IOException {
-//    This method will pick the gift variables by user selection such as business ,category ,gift categories ect and move to send screen.//
+//    This method will pick the gift variables by user selection such as business ,category ,gift  ect and move to send screen//
 
         boolean pickatt = false;
         try {
